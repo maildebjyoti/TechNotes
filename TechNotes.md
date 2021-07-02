@@ -7,10 +7,4 @@ pic: "https://firebasestorage.googleapis.com/v0/b/debjyotiacharjee-14406.appspot
 
 # Read Me First
 
-Notes in a gist that you can refer for revisit.
-
-Bookmark it.
-
-Raise PR
-
-Test
+Development branch
